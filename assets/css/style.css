@@ -87,19 +87,22 @@ main {
 }
 
 .hero-banner {
-  background: rgb(68, 88, 120);
-  background-image: url("../images/")
-  background-size: cover;
+  background: rgb(158, 165, 175);
+  background-image: url(../images/gf-logo-3.jpg);
+  background-size: 100% 100%;
   background-position: center;
   background-blend-mode: soft-light;
   min-height: 30vh;
   color: var(--light);
-  padding: 2% 6%;
+  padding: 0% 0%;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
   text-align: right;
+  background-repeat: no-repeat;
+  height: 44vh;
 }
+
 
 .hero-banner div {
   flex: 0 0 90%;
