@@ -1,4 +1,4 @@
-# 02 Advanced CSS: CJL12-PORTFOLIO Homwork
+# 02 Advanced CSS: CJL12-PORTFOLIO Homework
 
 
 Link to website.https://clouis12.github.io/CJL12-Portfolio/
